@@ -7,4 +7,3 @@
 ![Image 7](Img/img-7.png)
 ![Image 8](Img/img-8.png)
 ![Image 9](Img/img-9.png)
-![Image 10](Img/img-10.png)
